@@ -4,7 +4,7 @@
 
 //let value = "test";
 
-/* ther have 6 falsy valye 
+/* There have 6 falsy valye 
     1. ""
     2. null
     3. false
