@@ -1,3 +1,8 @@
+/*
+    A JavaScript Set is a collection of unique values.
+
+    Each value can only occur once in a Set.
+ */
 
 const createSet = new Set(['か', 'き','く','け' ,'こ']);
 
@@ -29,17 +34,6 @@ console.log(letters.size);
 const eachElement = letters.forEach((element) => {
     console.log(element);
 });
-
-
-
-
-
-
-
-
-
-
-
 
 
 
