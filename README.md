@@ -9,7 +9,7 @@
 ### Table of contents
 |  SL | Title         | Sub Title |
 |----------|---------------------|--------|
-|1 | JS Basic  | 1.Basic JS Language <br>2.JS String <br>[3.]:#href="https://github.com/jir52bd/Javascript/blob/master/1.JS-Basic/arraySort.js "JS Array" <br>4.Date and Time| 
+|1 | JS Basic  | 1.Basic JS Language <br>2.JS String <br>[3.]:#href=""JS Array" <br>4.Date and Time| 
 |2 | Modern ES6 | --- |
 <br>
 
@@ -23,10 +23,10 @@
     <td>1</td>
     <td>JS Basic</td>
     <td><ol>
-  <li>1.Basic JS Language</li>
-  <li>2.JS String</li>
-  <li><a href="1.JS-Basic:arraySortjs" target="_blank">3.JS Array</a></li>
-  <li>4.Date & Time</li>
+  <li>Basic JS Language</li>
+  <li>JS String</li>
+  <li><a href="https://github.com/jir52bd/Javascript/blob/master/1.JS-Basic/arraySort.js " target="_blank">JS Array</a></li>
+  <li>Date & Time</li>
 </ol></td>
   </tr>
   <tr>
