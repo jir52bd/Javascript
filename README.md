@@ -7,11 +7,6 @@
 
 <!-- TABLE OF CONTENTS -->
 ### Table of contents
-|  SL | Title         | Sub Title |
-|----------|---------------------|--------|
-|1 | JS Basic  | 1.Basic JS Language <br>2.JS String <br>[3.]:#href=""JS Array" <br>4.Date and Time| 
-|2 | Modern ES6 | --- |
-<br>
 
 <table>
   <tr>
@@ -32,6 +27,39 @@
   <tr>
     <td>2</td>
     <td>Modern ES6</td>
+    <td>----</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>JS Objects</td>
+    <td>----</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>JS Functions</td>
+    <td>
+    <ol>
+        <li><a href="https://github.com/jir52bd/Javascript/blob/master/6.JS-Async/syncronousProblem.js" target="_blank"> Syncronous Problem </a></li>
+        <li><a href="https://github.com/jir52bd/Javascript/blob/master/6.JS-Async/setTimeoutToSolveSyn.js" terget="_blank">setTimeout() for understanding of Syn</a></li>
+        <li><a href="https://github.com/jir52bd/Javascript/blob/master/6.JS-Async/callBack.js" target="_blank">callBack function</a></li>
+        <li><a href="https://github.com/jir52bd/Javascript/blob/master/6.JS-Async/promise.js" target="_blank">Promise() function</a></li>
+        <li><a href="https://github.com/jir52bd/Javascript/blob/master/6.JS-Async/async-await.js" target="_blank">asyn-aeait</a></li>
+    </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>JS Classes</td>
+    <td>----</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>JS Async</td>
+    <td>----</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>JS HTML DOM</td>
     <td>----</td>
   </tr>
 </table>
