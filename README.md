@@ -7,9 +7,9 @@
 
 <!-- TABLE OF CONTENTS -->
 ### Table of contents
-|  SL | Decsription         |
+|  SL | Title         | Sub Title |
 |----------|---------------------|
-|1 | Basic  |
+|1 | Basic  | |1.| Basic JS Language|| 
 |2 | Modern ES6 | 
 <br>
 
