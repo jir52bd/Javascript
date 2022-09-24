@@ -12,7 +12,10 @@
 |1 | Problem of Synchronous Process |
 |2 | ```setTimeout()``` to solve Synchronous process |
 |3 | callBack for Asynchronous |
-|4 | ```Promise()``` function |
+|4 | ```Promise()``` function 
+      |1| Multi Promise |
+      |2| Another away of multi Promise | |
+|5 | async-await |
 
 <br>
 
