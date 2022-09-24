@@ -9,7 +9,7 @@
 ### Table of contents
 |  SL | Title         | Sub Title |
 |----------|---------------------|--------|
-|1 | Basic  | |1.| Basic JS Language|| 
+|1 | Basic  | 1. Basic JS Language<br> 2.JS String <Br> jS Array| 
 |2 | Modern ES6 | --- |
 <br>
 
